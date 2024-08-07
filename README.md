@@ -65,4 +65,4 @@ The project is designed with the following components:
 
 <!-- ![Twitter Dashboard](media/twitter-dashboard.mp4) -->
 
-[![Watch the video]](https://youtu.be/Xc2-4A1BNjs)
+[![Watch the dashboard in action]](https://youtu.be/Xc2-4A1BNjs)
