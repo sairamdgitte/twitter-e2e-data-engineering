@@ -65,4 +65,4 @@ The project is designed with the following components:
 
 <!-- ![Twitter Dashboard](media/twitter-dashboard.mp4) -->
 
-<iframe width="560" height="315" src="https://youtu.be/Xc2-4A1BNjs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/Xc2-4A1BNjs)
