@@ -6,7 +6,6 @@
 - [High-level workflow](#what-youll-learn)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
-- [Watch the Video Tutorial](#watch-the-video-tutorial)
 
 ## Introduction
 
